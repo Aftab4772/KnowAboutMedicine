@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Imuran weakens your body&#39;s immune system, to help keep it from &quot;rejecting&quot; a transplanted organ such as a kidney. Organ rejection happens when the immune system treats the new organ as an invader and attacks it.
+      Imuran is used to prevent your body from rejecting a transplanted kidney. This medicine is also used to treat symptoms of rheumatoid arthritis.
+      Imuran may also be used for purposes not listed in this medication guide.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      Imuran may cause a rare type of lymphoma (cancer) of the liver, spleen, and bone marrow that can be fatal. This has occurred mainly in teenagers and young men with Crohn&#39;s disease or ulcerative colitis.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Imuran?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Your doctor will perform blood tests to make sure you do not have conditions that would prevent you from safely using Imuran.
+      Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose. Use the medicine exactly as directed.
+      When given for kidney transplant, Imuran is usually given right before or on the day of transplant. For rheumatoid arthritis, this medicine is taken on a daily basis.
+      It may take up to 8 weeks before your symptoms improve. Keep using Imuran as directed and tell your doctor if your symptoms have not improved after 12 weeks of use.
+      Take with food if Imuran upsets your stomach.
+      You may not be able to continue taking other arthritis medications together with Imuran. Do not change your dose or dosing schedule without your doctor&#39;s advice.
+      Imuran affects your immune system. You may get infections more easily, even serious or fatal infections. Your doctor will need to examine you on a regular basis.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

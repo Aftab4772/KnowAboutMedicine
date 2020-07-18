@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KnowAboutMedicine.About">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="5"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Text="Know About Medicine"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" 
+                    FontSize="Large"
+                    Grid.Row="0" Grid.Column="1"/>
+                <Image x:Name="appLogo" 
+                    Grid.Row="1" Grid.Column="1"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Know About Medicine app is basically provide you basic information about medicines. The purpose of this app that it will consume less time of patients(user) for finding any information about medicines. Nowadays, the situation become tough because of COVID19 pandemic.So, there is a lot's of risk to attend Hospital's, Doctor's Clinic or any medical junction(for medical information only) then with help of this app a patients(user) can know information about the medicines."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="2" Grid.Column="1"/>
+                <Label Text="In many cases patients(user) don't know proper information about the medicines in this case we provide offline app that help patients(user) to know information about medicine."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="3" Grid.Column="1"/>
+                <Label Text="Important Instructions!"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" 
+                    TextColor="Red" FontSize="Large"
+                    Grid.Row="4" Grid.Column="1"/>
+                <Label Text="•	All medicines required proper prescription from Doctor."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="5" Grid.Column="1"/>
+                <Label Text="•	Follow Doctor schedule properly related to medicine."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="6" Grid.Column="1"/>
+                <Label Text="•	Please don't take any medicine without consulting with Doctor."
+                    VerticalOptions="CenterAndExpand"  
+                    Grid.Row="7" Grid.Column="1"/>
+                <Label Text="•	This app only for medicine Information purpose."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="8" Grid.Column="1"/>
+                <Label Text="•	Please don't use this app for self-treatment."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="9" Grid.Column="1"/>
+                <Label Text="•	Please read all information properly related to medicine."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="10" Grid.Column="1"/>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,5 @@
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\60\KnowAboutMedicine.Android.nuget.stamp
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\60\KnowAboutMedicine.Android.csprojAssemblyReference.cache
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\60\libraryimports.cache.stamp
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\60\res.flag

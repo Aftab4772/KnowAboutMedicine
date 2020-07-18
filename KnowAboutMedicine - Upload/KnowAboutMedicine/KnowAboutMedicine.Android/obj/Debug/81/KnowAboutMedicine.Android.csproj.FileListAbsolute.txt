@@ -1,0 +1,275 @@
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.Android.dll
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\com.companyname.KnowAboutMedicine.apk
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\com.companyname.KnowAboutMedicine-Signed.apk
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.dll
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.nuget.stamp
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.csprojAssemblyReference.cache
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\libraryimports.cache.stamp
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res.flag
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.csproj.CoreCompileInputs.cache
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\XamlC.stamp
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.csproj.CopyComplete
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.dll
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\bin\com.companyname.KnowAboutMedicine.apk
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\layout\tabbar.xml
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\layout\toolbar.xml
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\values\styles.xml
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\values\colors.xml
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\edarbi.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibandronate.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibrance.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibrutinib.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibuprofen.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imatinib.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imdur.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imipramine.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imitrex.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imuran.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\jadenu.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\jakafi.jpg
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-hdpi\aboutus.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\aboutus.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xhdpi\aboutus.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxhdpi\aboutus.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxxhdpi\aboutus.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\icon1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\icon1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\icon1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\icon1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-hdpi\mainicon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xhdpi\mainicon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxhdpi\mainicon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxxhdpi\mainicon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\mainicon.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\mainicon230.png
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\R.cs.flag
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\R.txt
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\uploadflags.txt
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\FormsViewGroup.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Mono.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\mscorlib.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Core.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Xml.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Xml.Linq.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Data.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Numerics.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Transactions.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.IO.Compression.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Net.Http.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Web.Services.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Mono.Security.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\mscorlib.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Core.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Xml.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Data.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.dll.mdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\KnowAboutMedicine.dll.mdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\KnowAboutMedicine.dll.mdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\mscorlib.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Core.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Data.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Xml.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.Android.dll
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\com.KnowAbout.KnowAboutMedicine.apk
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\com.KnowAbout.KnowAboutMedicine-Signed.apk
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.dll
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\KnowAboutMedicine.dll.mdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.nuget.stamp
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.csprojAssemblyReference.cache
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\libraryimports.cache.stamp
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res.flag
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.csproj.CoreCompileInputs.cache
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\XamlC.stamp
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.csproj.CopyComplete
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.dll
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\bin\com.KnowAbout.KnowAboutMedicine.apk
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\layout\tabbar.xml
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\layout\toolbar.xml
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\values\styles.xml
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\values\colors.xml
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\edarbi.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibandronate.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibrance.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibrutinib.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\ibuprofen.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imatinib.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imdur.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imipramine.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imitrex.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\imuran.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\jadenu.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\jakafi.jpg
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-hdpi\aboutus.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\aboutus.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xhdpi\aboutus.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxhdpi\aboutus.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxxhdpi\aboutus.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\icon1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\icon1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\icon1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\icon1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-hdpi\mainicon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xhdpi\mainicon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxhdpi\mainicon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable-xxxhdpi\mainicon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\mainicon.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground1.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\res\drawable\mainicon230.png
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\R.cs.flag
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\R.txt
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\uploadflags.txt
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\FormsViewGroup.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Mono.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Mono.Security.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\mscorlib.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Core.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Data.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.IO.Compression.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Net.Http.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Numerics.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Transactions.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Web.Services.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Xml.Linq.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\System.Xml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\KnowAboutMedicine.dll.mdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\mscorlib.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Core.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Data.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\System.Xml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\KnowAboutMedicine.dll.mdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\KnowAboutMedicine.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\mscorlib.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Core.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Data.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\System.Xml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine.Android\obj\Debug\81\linksrc\KnowAboutMedicine.dll.mdb

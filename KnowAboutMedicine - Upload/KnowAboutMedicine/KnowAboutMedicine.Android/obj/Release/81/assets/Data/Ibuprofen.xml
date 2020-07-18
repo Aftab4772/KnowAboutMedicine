@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). This medicine works by reducing hormones that cause inflammation and pain in the body.
+      Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury. Ibu is used in adults and children who are at least 6 months old.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      Ibuprofen can increase your risk of fatal heart attack or stroke, especially if you use it long term or take high doses, or if you have heart disease. Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG).
+      Ibuprofen may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Ibuprofen?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Use exactly as directed on the label, or as prescribed by your doctor. Do not use in larger amounts or for longer than recommended. Use the lowest dose that is effective in treating your condition.
+      Do not take more than your recommended dose. An Ibuprofen overdose can damage your stomach or intestines. The maximum amount of ibuprofen for adults is 800 milligrams per dose or 3200 mg per day (4 maximum doses). Use only the smallest amount of ibuprofen needed to get relief from your pain, swelling, or fever.
+      A child&#39;s dose of ibuprofen is based on the age and weight of the child. Carefully follow the dosing instructions provided with children&#39;s Ibu for the age and weight of your child. Ask a doctor or pharmacist if you have questions.
+      Take Ibuprofen with food or milk to lessen stomach upset.
+      Shake the oral suspension (liquid) well just before you measure a dose. Measure liquid medicine with the dosing syringe provided, or with a special dose-measuring spoon or medicine cup. If you do not have a dose-measuring device, ask your pharmacist for one.
+      The Ibuprofen chewable tablet must be chewed before you swallow it. If you use this medicine long-term, you may need frequent medical tests.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Since Ibuprofen is used when needed, you may not be on a dosing schedule. If you are on a schedule, use the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not use extra medicine to make up the missed dose.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

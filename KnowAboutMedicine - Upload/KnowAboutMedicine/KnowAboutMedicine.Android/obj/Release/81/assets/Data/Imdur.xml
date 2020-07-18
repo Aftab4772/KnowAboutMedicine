@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Imdur (isosorbide mononitrate) is a nitrate that dilates (widens) blood vessels, making it easier for blood to flow through them and easier for the heart to pump.
+      Imdur is an extended release tablet used to prevent angina attacks (chest pain). Imdur will not treat an angina attack that has already begun.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      You should not take erectile dysfunction medicine (Viagra, Cialis, Levitra, Stendra, Staxyn, sildenafil, avanafil, tadalafil, vardenafil) while you are taking Imdur. Taking these medicine together can cause a sudden and serious decrease in blood pressure.
+      Seek emergency medical attention if you have early symptoms of a heart attack (chest pain or pressure, pain spreading to your jaw or shoulder, sweating, general ill feeling).
+      Do not stop taking this medicine suddenly. Stopping suddenly could cause a severe angina attack.
+      Isosorbide mononitrate can cause severe headaches, especially when you first start using it. These headaches may gradually become less severe as you continue to use the medication. Do not stop taking Imdur. Ask your doctor before using any headache pain medication.
+      Use this medicine regularly to prevent an angina attack. Get your prescription refilled before you run out of medicine completely.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Imdur?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Take Imdur exactly as prescribed by your doctor. Follow all directions on your prescription label. Your doctor may occasionally change your dose. Do not take this medicine in larger or smaller amounts or for longer than recommended. If you use too much isosorbide mononitrate, it might stop working as well in controlling your condition.
+      Try to rest or stay seated when you take this medicine (may cause dizziness or fainting).
+      Do not crush, chew, or break an extended-release Imdur tablet. Swallow it whole.
+      You may have very low blood pressure while taking Imdur. Call your doctor if you are sick with vomiting or diarrhea, or if you are sweating more than usual. Prolonged illness can lead to a serious electrolyte imbalance, making it dangerous for you to use this medicine.
+      Use Imdur regularly to prevent an angina attack. Get your prescription refilled before you run out of medicine completely.
+      You should not stop using Imdur suddenly or you could have a severe attack of angina. Keep this medicine on hand at all times. Get your prescription refilled before you run out of medicine completely.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

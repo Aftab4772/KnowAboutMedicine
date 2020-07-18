@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Jakafi (ruxolitinib) works by blocking certain enzymes in the body that affect blood cell production.
+      Jakafi is used in adults to treat myelofibrosis or polycythemia vera, which are bone marrow disorders that that affect your body&#39;s ability to produce blood cells.
+      Jakafi is also used to treat acute graft versus host disease (GVHD) in adults and children 12 years of age and older who have taken corticosteroids and they did not work well enough. Jakafi is usually given after other treatments have failed.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      You should not use Jakafi if you are allergic to ruxolitinib, or if you have severe kidney disease.
+      Before you take this medicine, tell your doctor if you have liver or kidney disease, if you are on dialysis, or if you are pregnant. You should not breast-feed while you are using this medicine.
+      To be sure Jakafi is helping your condition and not causing harmful effects, your blood will need to be tested often. This will help your doctor determine the best dose for you to use. When you first start taking this medicine, your blood will need to be tested every 2 to 4 weeks. Do not miss any follow-up visits to your doctor.
+      Grapefruit and grapefruit juice may interact with Jakafi and can affect the amount of the medication in your blood. Discuss the use of grapefruit products with your doctor. 
+      Follow all directions on your medicine label and package. Tell each of your healthcare providers about all your medical conditions, allergies, and all medicines you use.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Jakafi?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Take Jakafi exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets.
+      Your doctor may occasionally change your dose. You will need frequent medical tests to help your doctor determine the best dose. When you first start taking Jakafi, your blood will need to be tested every 2 to 4 weeks.
+      You may take Jakafi with or without food. The Jakafi tablet can also be given through a nasogastric (NG) feeding tube.
+      Read and carefully follow any Instructions for Use provided with your medicine. Ask your doctor or pharmacist if you do not understand these instructions.
+      Store at room temperature away from moisture and heat.
+      You should not stop using Jakafi suddenly. Follow your doctor&#39;s instructions about tapering your dose.
+      You may be given other medications to help prevent infection. Keep using these medicines for as long as your doctor has prescribed.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

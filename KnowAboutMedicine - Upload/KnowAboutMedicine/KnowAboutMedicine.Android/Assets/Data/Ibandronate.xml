@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Ibandronate is a bisphosphonate (bis FOS fo nayt) medicine that alters bone formation and breakdown in the body. This can slow bone loss and may help prevent bone fractures.
+      Ibandronate is used to treat or prevent osteoporosis in women after menopause. Ibandronate may also be used for purposes not listed in this medication guide.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      You should not use ibandronate if you have severe kidney disease or low levels of calcium in your blood.
+      Do not take an ibandronate tablet if you have problems with your esophagus, or if you cannot sit upright or stand for at least 60 minutes after taking the tablet.
+      Ibandronate tablets can cause serious problems in the stomach or esophagus. Stop taking ibandronate and call your doctor at once if you have chest pain, new or worsening heartburn, or pain when swallowing.
+      Also call your doctor if you have muscle spasms, numbness or tingling (in hands and feet or around the mouth), new or unusual hip pain, or severe pain in your joints, bones, or muscles.
+    </Info>
+    <IntakeInfoHeader>
+      How should I use ibandronate?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Do not use this medicine in larger or smaller amounts or for longer than recommended.
+      Ibandronate tablets are taken once per month. Ibandronate injection is given into a vein through an IV once every 3 months.
+      Ibandronate tablets can be taken at home, but a healthcare provider must give the ibandronate injection.
+      Take the ibandronate tablet with a full glass (6 to 8 ounces) of plain water. Do not use coffee, tea, soda, juice, or mineral water. Do not eat or drink anything other than plain water.
+      Your doctor will determine how long to treat you with this medicine. Ibandronate is often given for only 3 to 5 years.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Ibandronate tablets: If you forget to take a tablet first thing in the morning on your scheduled day, do not take it later in the day. Wait until the next morning to take the missed dose. Then return to your regular monthly schedule on your chosen dose day. If your next scheduled dose is less than 7 days away, wait until then and skip the missed dose. Do not take two (2) doses in one week.
+      Ibandronate injections: Call your doctor for instructions if you miss an appointment for your injection.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

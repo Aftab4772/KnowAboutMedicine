@@ -1,0 +1,30 @@
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\bin\Release\netstandard2.0\KnowAboutMedicine.deps.json
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\bin\Release\netstandard2.0\KnowAboutMedicine.dll
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\bin\Release\netstandard2.0\KnowAboutMedicine.pdb
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\ImpInstructions.xaml.g.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\MainSearchWindow.xaml.g.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\MedicineDetails.xaml.g.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.csproj.CoreCompileInputs.cache
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.AssemblyInfoInputs.cache
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.AssemblyInfo.cs
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\XamlC.stamp
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.dll
+E:\Projects\KnowAboutMedicine\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\bin\Release\netstandard2.0\KnowAboutMedicine.deps.json
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\bin\Release\netstandard2.0\KnowAboutMedicine.dll
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\bin\Release\netstandard2.0\KnowAboutMedicine.pdb
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.csprojAssemblyReference.cache
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\About.xaml.g.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\ImpInstructions.xaml.g.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\MainSearchWindow.xaml.g.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\MedicineDetails.xaml.g.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.csproj.CoreCompileInputs.cache
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.AssemblyInfoInputs.cache
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.AssemblyInfo.cs
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\XamlC.stamp
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.dll
+E:\Projects\KnowAboutMedicine - Upload\KnowAboutMedicine\KnowAboutMedicine\obj\Release\netstandard2.0\KnowAboutMedicine.pdb

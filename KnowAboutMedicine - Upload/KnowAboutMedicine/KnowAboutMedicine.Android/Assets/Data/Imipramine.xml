@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Imipramine is a tricyclic antidepressant. Imipramine affects chemicals in the brain that may be unbalanced in people with depression.
+      Imipramine is used to treat symptoms of depression. Imipramine is sometimes used to treat bed-wetting in children ages 6 and older.
+      Imipramine may also be used for purposes not listed in this medication guide.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      You should not take imipramine if you recently had a heart attack.
+      Do not use this medicine if you have used an MAO inhibitor in the past 14 days, such as isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, or tranylcypromine.
+      Some young people have thoughts about suicide when first taking an antidepressant. Stay alert to changes in your mood or symptoms. Report any new or worsening symptoms to your doctor.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Imipramine?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results. Do not use imipramine in larger or smaller amounts or for longer than recommended.
+      If you need surgery, tell the surgeon ahead of time that you are using imipramine. You may need to stop using the medicine for a short time.
+      It may take up to 3 weeks before your symptoms improve. Keep using the medication as directed and tell your doctor if your symptoms do not improve.
+      Call your doctor if your symptoms do not improve, or if they get worse.
+      You should not stop using imipramine suddenly. Follow your doctor&#39;s instructions about tapering your dose.
+      Store at room temperature away from moisture, heat, and light. Keep the bottle tightly closed when not in use.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

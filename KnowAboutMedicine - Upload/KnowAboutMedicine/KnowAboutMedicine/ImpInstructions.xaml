@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KnowAboutMedicine.ImpInstructions"
+             Icon = "@drawable/mainIcon.png"
+             Title="Know About Your Medicine">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <ScrollView Grid.Row="0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="5"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Text="Important Instructions!"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" 
+                    TextColor="Red" FontSize="Large"
+                    Grid.Row="0" Grid.Column="1"/>
+                    <Label Text="•	All medicines required proper prescription from Doctor."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="1" Grid.Column="1"/>
+                    <Label Text="•	Follow Doctor schedule properly related to medicine."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="2" Grid.Column="1"/>
+                    <Label Text="•	Please don't take any medicine without consulting with Doctor."
+                    VerticalOptions="CenterAndExpand"  
+                    Grid.Row="3" Grid.Column="1"/>
+                    <Label Text="•	This app only for medicine Information purpose."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="4" Grid.Column="1"/>
+                    <Label Text="•	Please don't use this app for self-treatment."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="5" Grid.Column="1"/>
+                    <Label Text="•	Please read all information properly related to medicine."
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalTextAlignment="Start"
+                    Grid.Row="6" Grid.Column="1"/>
+                    <Grid Grid.Row="7" Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Text="Do not show again" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Start"
+                        FontAttributes="Bold" Grid.Row="0" Grid.Column="0"/>
+                        <Switch x:Name="swtchDoNotShowAgain" Grid.Row="0" Grid.Column="1"/>
+                        <Label Text="I have read the Important Instruction" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Start"
+                        FontAttributes="Bold" Grid.Row="1" Grid.Column="0"/>
+                        <Switch x:Name="swtchIHaveRead" Grid.Row="1" Grid.Column="1" Toggled="SwtchIHaveRead_Toggled"/>
+                    </Grid>
+                </Grid>
+            </ScrollView>
+            <Button x:Name="btnNext" IsEnabled="False" Text="NEXT -->" Grid.Row="1" Clicked="BtnNext_Clicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

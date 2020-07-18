@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+<Medicine>
+  <Details>
+    Edarbi (azilsartan) is an angiotensin II receptor blocker (sometimes called an ARB). Azilsartan keeps blood vessels from narrowing, which lowers blood pressure and improves blood flow.
+    Edarbi is used to treat high blood pressure (hypertension). Your doctor may prescribe other medicines for you to take along with Edarbi to treat your high blood pressure.
+  </Details>
+  <InfoHeader>
+    Important information
+  </InfoHeader>
+  <Info>
+    Do not use Edarbi if you are pregnant. Stop using this medicine and tell your doctor right away if you become pregnant.
+    If you have diabetes, do not use Edarbi together with any medication that contains aliskiren (a blood pressure medicine - e.g. Amturnide, Tekturna, Tekamlo, Valturna).
+  </Info>
+  <IntakeInfoHeader>
+    How should I take Edarbi?
+  </IntakeInfoHeader>
+  <IntakeInfo>
+    Take Edarbi exactly as prescribed by your doctor. Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results.
+    Do not take this medicine in larger or smaller amounts or for longer than recommended. Edarbi may be taken with or without food. Your blood pressure will need to be checked often.
+    Keep using this medicine as directed, even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medicine for the rest of your life.
+  </IntakeInfo>
+  <WarningHeader>
+    What happens if I miss a dose?
+  </WarningHeader>
+  <Warning>
+    Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose.
+  </Warning>
+</Medicine>
+</MedicineDetails>

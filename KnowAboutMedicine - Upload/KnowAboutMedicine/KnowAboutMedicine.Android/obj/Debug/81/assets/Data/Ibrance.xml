@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Ibrance (palbociclib) is a cancer medicine that interferes with the growth and spread of cancer cells in the body.
+      Ibrance is used in men and women to treat HR-positive, HER2-negative breast cancer that has spread to other parts of the body.
+      In postmenopausal women, Ibrance is given in combination with a hormonal medicine such as letrozole (Femara). In others, Ibrance is given together with fulvestrant (Faslodex).
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      Ibrance affects your lungs or your immune system. You may get infections more easily, even serious or fatal infections. Call your doctor if you have a fever, chills, chest pain, shortness of breath, or cough with or without mucus.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Ibrance?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Take Ibrance exactly as it was prescribed for you. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.
+      Ibrance is given in a 28-day treatment cycle, and you may only need to take the medicine during the first 3 weeks of each cycle. Your doctor will determine how long to treat you with Ibrance.
+      Take Ibrance capsules with food. Avoid grapefruit products. Grapefruit may interact with palbociclib and lead to unwanted side effects.
+      You may take Ibrance tablets with or without food. Take the medicine at the same time each day.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Skip the missed dose and do not take the medicine again until the next day. Do not use two doses at one time.
+    </Warning>
+  </Medicine>
+</MedicineDetails>

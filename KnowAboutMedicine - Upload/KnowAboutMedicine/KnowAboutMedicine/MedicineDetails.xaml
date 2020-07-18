@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KnowAboutMedicine.MedicineDetails"
+             Icon = "@drawable/mainIcon.png"
+             Title="Know About Medicine">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="5"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Label Text="Medicine Name"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="0" 
+                Grid.Column="1"
+                FontSize="Large" 
+                FontAttributes="Bold"
+                x:Name="lblMedName"/>
+                <Image x:Name="imgMed" Grid.Row="1"
+                Grid.Column="1"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Medicine Details"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="2"
+                Grid.Column="1"
+                x:Name="lblMedDetails"/>
+                <Label Text="Medicine Info Header"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="3"
+                Grid.Column="1"
+                FontSize="Medium" 
+                FontAttributes="Bold"
+                x:Name="lblMedInfoHead"/>
+                <Label Text="Medicine Info"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="4"
+                Grid.Column="1"
+                x:Name="lblMedInfo"/>
+                <Label Text="Medicine Intake Info Header"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="5"
+                Grid.Column="1"
+                FontSize="Medium" 
+                FontAttributes="Bold"
+                x:Name="lblMedIntakeInfoHead"/>
+                <Label Text="Medicine Intake Info"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="6"
+                Grid.Column="1"
+                x:Name="lblMedIntakeInfo"/>
+                <Label Text="Medicine Intake Info Header"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="7"
+                Grid.Column="1"
+                FontSize="Medium" 
+                FontAttributes="Bold"
+                x:Name="lblMedWarningHead"/>
+                <Label Text="Medicine Intake Info"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Grid.Row="8"
+                Grid.Column="1"
+                x:Name="lblMedWarning"/>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

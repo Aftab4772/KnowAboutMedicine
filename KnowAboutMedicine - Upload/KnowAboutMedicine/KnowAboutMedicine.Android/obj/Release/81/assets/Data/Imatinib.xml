@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MedicineDetails>
+  <Medicine>
+    <Details>
+      Imatinib is used to treat certain types of leukemia (blood cancer), bone marrow disorders, and skin cancer. Imatinib is also used to treat certain tumors of the stomach and digestive system.
+      Imatinib may also be used for purposes not listed in this medication guide.
+    </Details>
+    <InfoHeader>
+      Important information
+    </InfoHeader>
+    <Info>
+      Follow all directions on your medicine label and package. Tell each of your healthcare providers about all your medical conditions, allergies, and all medicines you use.
+    </Info>
+    <IntakeInfoHeader>
+      How should I take Imatinib?
+    </IntakeInfoHeader>
+    <IntakeInfo>
+      Follow all directions on your prescription label and read all medication guides or instruction sheets. Use the medicine exactly as directed. Take imatinib with a meal and a large glass of water. Do not take imatinib on an empty stomach.
+      If you cannot swallow a tablet whole, you may dissolve it in a glass of water or apple juice to make the pill easier to swallow. Use about 2 ounces of liquid for each 100-milligram tablet, or 7 ounces of liquid for each 400-milligram tablet. Stir the mixture and drink all of it right away.
+      Do not use a broken tablet. The medicine from a broken pill can be dangerous if it gets in your mouth, eyes, or nose, or on your skin. If this happens, wash your skin with soap and water or rinse your eyes with water. Ask your pharmacist how to safely dispose of broken pill.
+      Imatinib can lower blood cells that help your body fight infections and help your blood to clot. Your blood will need to be tested often. Your cancer treatments may be delayed based on the results of these tests. You will also need frequent tests to check your liver function.
+      Do not stop using imatinib without your doctor&#39;s advice.
+    </IntakeInfo>
+    <WarningHeader>
+      What happens if I miss a dose?
+    </WarningHeader>
+    <Warning>
+      Take your dose as soon as you can, making sure you also eat a meal and drink a large glass of water. Skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.
+    </Warning>
+  </Medicine>
+</MedicineDetails>
