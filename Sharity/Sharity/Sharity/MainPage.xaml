@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Sharity"
+             x:Class="Sharity.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Sharity(Sharing and Caring), it is for Charity." 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button Text="Donate to Sharity" x:Name="donate" Clicked="Donate_Clicked"/>
+        <Label Text=" " x:Name="Nothing" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Button Text="Recive from Sharity" x:Name="recive" Clicked="Recive_Clicked" />
+    </StackLayout>
+
+</ContentPage>
